@@ -6,7 +6,7 @@ Work with a partner to implement the following user story:
 
 # 🔗Live link to heroku deployment 
 
-![UI/UX tips]https://shrouded-savannah-70603.herokuapp.com/
+![UI/UX tips](https://shrouded-savannah-70603.herokuapp.com/)
 
 ## Acceptance Criteria
 
